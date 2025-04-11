@@ -18,7 +18,7 @@ Assim, o uso dos softwares depende da internet. Os dados, contatos e demais info
 Qualquer um conhece o SaaS porque vários sites, como o Facebook e o Twitter, e aplicativos, como o Skype, OneDrive e Office 365, funcionam dessa maneira.
 Neles, tudo é disponibilizado na nuvem, para que muitos usuários consigam ter acesso ao serviço pelo browser ou por um software.
 o usuário compra uma licença para ter acesso ao software, utilizando-o a partir da Cloud Computing, muitas vezes com recursos limitados.
-Os principais diferenciais desse modelo de nuvem são a escalabilidade e a praticidade. Afinal, todos os processos relativos aos custos da compra do software e do servidor — além da implementação — são eliminados, visto que o serviço está disponível a um clique de distância.
+Os principais diferenciais desse modelo de nuvem são a escalabilidade e a praticidade. Afinal, todos os processos relativos aos custos da compra do software e do servidor além da implementação são eliminados, visto que o serviço está disponível a um clique de distância.
 Sendo assim, você só precisará testá-lo gratuitamente. Caso goste, pague o valor referente ao seu uso e dê aos seus funcionários a vantagem de trabalhar simultaneamente em um mesmo arquivo!
 
 Já sobre a responsabilidade compartilhada, podemos comparar os seguintes modelos:
